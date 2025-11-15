@@ -15,8 +15,11 @@ This project simulates basic banking operations and helps practice functions, lo
 🧠 How It Works
 
 1️⃣ When the program starts, a menu is shown to the user
+
 2️⃣ The user selects an option (1–5)
+
 3️⃣ The program validates the input
+
 4️⃣ Based on the choice, it performs:
 
 Creating an account
@@ -28,6 +31,7 @@ Withdrawing money
 Showing balance
 
 ❌ If the user enters a wrong choice → “Invalid choice!” is shown
+
 ❌ If insufficient balance → error message displayed
 
 🧩 Tech Used
